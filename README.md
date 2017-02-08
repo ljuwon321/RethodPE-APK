@@ -26,3 +26,6 @@ BlockLauncher addon which improves ModPE.
 
 ### 2017.01.14 Update
 - Add `onServerChatListener`
+
+## License
+RethodPE is licensed under the LGPL 3.0.
